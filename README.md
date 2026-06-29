@@ -54,34 +54,6 @@ Inspired by Google's 2021 paper "Carbon-Aware Computing for Datacenters," which 
 │  └─────────────┘ └─────────────┘ └─────────────────────┘    │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
-##  Screenshots
-
-### Live Carbon Scores + Forecast
-*Real-time carbon intensity monitoring with predictive forecasting*
-
-![Carbon Scores](screenshots/carbon-scores.png)
-
-### Search Interface
-*Dual-mode search with speed vs. environmental impact options*
-
-![Search Interface](screenshots/search-interface.png)
-
-### Run Green Mode Results
-*Environmentally optimized search results with carbon impact report*
-
-![Run Green Results](screenshots/run-green-results.png)
-
-### Run Now Mode Results
-*Speed-optimized search results with carbon impact comparison*
-
-![Run Now Results](screenshots/run-now-results.png)
-
-### Insights Dashboard
-*Detailed carbon impact analysis and routing decisions*
-
-![Insights Page](screenshots/insights-page.png)
-
 ## Getting Started
 
 ### Prerequisites
